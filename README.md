@@ -65,12 +65,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mihir-19-git)
-
----
-
 ## 🏆 Achievements
 
 🏅 NPTEL Certifications
