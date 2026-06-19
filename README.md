@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Mihir Kashyap
 
-<!--
-**Mihir-19-git/Mihir-19-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in AI & ML
 
-Here are some ideas to get you started:
+💻 Skills:
+- Python
+- Java
+- Machine Learning
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Emotion Detection Proctoring System
+- AI/ML Projects
+
+📫 Connect with me:
+- GitHub: https://github.com/Mihir-19-git
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihir-19-git&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir-19-git&layout=compact)
