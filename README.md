@@ -71,14 +71,14 @@
 
 🏅 AI & Machine Learning Projects
 
-🏅 B.Tech AIML Student
+
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Mihir-19-git
-- LinkedIn: ADD_YOUR_LINKEDIN_HERE
+- LinkedIn: www.linkedin.com/in/mihir-kashyap-3a936a2a2
 
 ---
 
